@@ -17,6 +17,7 @@ body{
 }
 #planets img:hover {
 	filter: grayscale(100%);
+	transition: all 0.1s linear;
 }
 
 
