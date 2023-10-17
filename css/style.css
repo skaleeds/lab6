@@ -11,10 +11,11 @@ body{
 	color: white;
 	transition: all 0.1s linear;
 	padding: 10px;
-#planets tr:{
-	
 }
+#planets th:hover{
+	background-color: orange;
 }
+
 
 
 
