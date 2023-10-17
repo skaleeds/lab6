@@ -6,6 +6,10 @@ td, th, h1 {
 #planets td:hover {
 	background-color: blue;
 }
+body{
+	background-color: green;
+}
+
 
 
  
