@@ -6,7 +6,7 @@ td, th, h1 {
 #planets td:hover {
 	background-color: blue;
 	color: white;
-	transition: all 0.2s linear;
+	transition: all 0.1s linear;
 }
 
 
