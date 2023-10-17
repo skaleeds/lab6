@@ -3,6 +3,9 @@ td, th, h1 {
 	font-family: 'Poiret One', sans-serif;
 	font-weight: 700;
 }
+#planets td:hover {
+	background-color: blue;
+}
 
 
  
