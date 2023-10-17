@@ -3,10 +3,17 @@ td, th, h1 {
 	font-family: 'Poiret One', sans-serif;
 	font-weight: 700;
 }
+body{
+	background-color: #ADD8E6;
+}
 #planets td:hover {
 	background-color: blue;
 	color: white;
 	transition: all 0.1s linear;
+	padding: 10px;
+#planets tr:{
+	
+}
 }
 
 
