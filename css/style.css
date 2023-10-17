@@ -16,10 +16,12 @@ body{
 	background-color: orange;
 }
 #planets planets:hover {
-	filter: grayscale(100%);
+	filter: none;
 	transition: all 0.1s linear;
 }
-
+#planets planets: {
+	filter: grayscale(100%);
+}
 
 
 
