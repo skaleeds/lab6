@@ -15,7 +15,9 @@ body{
 #planets th:hover{
 	background-color: orange;
 }
-
+#planets img:hover {
+	filter: grayscale(100%);
+}
 
 
 
