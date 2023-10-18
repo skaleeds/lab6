@@ -22,6 +22,10 @@ body{
 	filter: none;
 	transition: all 0.1s linear;
 }
+#planets {
+	margin: 0 auto;
+	text-align: center;
+}
 
 
 
