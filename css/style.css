@@ -27,7 +27,7 @@ body{
 	color: white;
 	transition: all 0.1s linear;
 }
-#planets,#Title {
+#planets, #Title {
 	margin: 0 auto;
 	text-align: center;
 }
