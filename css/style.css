@@ -19,7 +19,7 @@ body{
 	filter: grayscale(100%);
 }
 #planets img:hover {
-	filter: none;
+	filter: grayscale(0);
 	transition: all 0.1s linear;
 }
 #planets {
