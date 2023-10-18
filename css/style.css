@@ -22,6 +22,11 @@ body{
 	filter: grayscale(0);
 	transition: all 0.1s linear;
 }
+#planets img:hover ~ td {
+	backround-color: blue;
+	color: white;
+	transition: all 0.1s linear;
+}
 #planets {
 	margin: 0 auto;
 	text-align: center;
