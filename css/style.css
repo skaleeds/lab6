@@ -23,7 +23,7 @@ body{
 	transition: all 0.1s linear;
 }
 #planets img:hover ~ td {
-	backround-color: blue;
+	background-color: blue;
 	color: white;
 	transition: all 0.1s linear;
 }
