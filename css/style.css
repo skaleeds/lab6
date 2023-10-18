@@ -22,7 +22,7 @@ body{
 #planets img:hover {
 	filter: grayscale(0);
 }
-#planets td:hover ~ td {
+#planets td:hover {
 	background-color: blue;
 	color: white;
 	transition: all 0.1s linear;
