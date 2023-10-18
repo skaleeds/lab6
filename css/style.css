@@ -15,12 +15,12 @@ body{
 #planets th:hover{
 	background-color: orange;
 }
-#planets planets:hover {
+#planets img: {
+	filter: grayscale(100%);
+}
+#planets img:hover {
 	filter: none;
 	transition: all 0.1s linear;
-}
-#planets planets: {
-	filter: grayscale(100%);
 }
 
 
